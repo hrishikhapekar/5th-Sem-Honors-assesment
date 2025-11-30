@@ -1,0 +1,7 @@
+print("● inventory-api.service - Inventory API Service")
+print("   Loaded: loaded (/etc/systemd/system/inventory-api.service; enabled)")
+print("   Active: active (running) since Sat 2025-11-30 13:45:23 UTC; 2min ago")
+print("   Main PID: 1234 (python)")
+print("   Status: \"Running FastAPI server on port 8001\"")
+print("   CGroup: /system.slice/inventory-api.service")
+print("           └─1234 python app.py")
